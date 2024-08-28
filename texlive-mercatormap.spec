@@ -1,6 +1,6 @@
 Name:		texlive-mercatormap
-Version:	56060
-Release:	2
+Version:	71976
+Release:	1
 Summary:	Spherical Mercator coordinate systems and Web Mercator tile integration
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mercatormap
