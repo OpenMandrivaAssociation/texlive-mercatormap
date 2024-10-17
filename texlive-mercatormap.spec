@@ -3,7 +3,7 @@ Version:	71976
 Release:	1
 Summary:	Spherical Mercator coordinate systems and Web Mercator tile integration
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mercatormap
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/mercatormap
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mercatormap.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mercatormap.doc.r%{version}.tar.xz
